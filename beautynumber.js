@@ -1,6 +1,7 @@
 //利用ethersjs自带的createrandom函数以及正则表达式，生成一个靓号；
 //这种方式主打一个安全；
 //缺点是耗时较长，以下生成一个0x0604开头的地址，耗时2-3min；
+//若使用一些专门的靓号生成器，则快速但不安全
 const hre=require('hardhat');
 const ethers=hre.ethers;
 var wallet;

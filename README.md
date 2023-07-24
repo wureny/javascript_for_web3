@@ -1,1 +1,1 @@
-# javascript_for_web3
+# scripts_for_web3
